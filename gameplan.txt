@@ -4,4 +4,5 @@ Ordering the gameplan for Chef E-Dubble's site
 2. Implement fade slider
 3. Implement 80% size slider
 4. Sidebar w/ menu button & media buttons
+-Update- We'll use mmenu for the menu instead of simple sidebar.
 5. All pertinent pages & color scheme
